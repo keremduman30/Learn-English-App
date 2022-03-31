@@ -26,7 +26,7 @@ The following tools were used in this project:
 - [Firebase](https://firebase.google.com)
 
 ## All Photos
-<img src="/register_page.jpg" heigh="100" width="100" display="inline-block">
+<img src="/images.png">
 
 
 
