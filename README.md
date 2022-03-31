@@ -25,8 +25,8 @@ The following tools were used in this project:
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAyJOBBhDCARIsAJG2h5eL8TqlTcYWCGcBIPw1fvDCI8-HFaYlvzdfH8GUd_-j9kX9SbFTTJkaAo3MEALw_wcB&gclsrc=aw.ds)
 - [Firebase](https://firebase.google.com)
 
-## All Photos
-<img src="/images.png">
+## All Pages
+<img src="/image.png">
 
 
 
