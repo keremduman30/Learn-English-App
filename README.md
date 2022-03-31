@@ -4,7 +4,7 @@
 
 <h3 align="left">
    :dart: About : 
-  Learn English application that works on both android platforms. 
+  Learn English application that works on android platforms. 
 </h3>
 
   Play Store        
