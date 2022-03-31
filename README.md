@@ -25,8 +25,9 @@ The following tools were used in this project:
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAyJOBBhDCARIsAJG2h5eL8TqlTcYWCGcBIPw1fvDCI8-HFaYlvzdfH8GUd_-j9kX9SbFTTJkaAo3MEALw_wcB&gclsrc=aw.ds)
 - [Firebase](https://firebase.google.com)
 
-## Photos
-![Preview](/register_page.jpg)
+## All Photos
+<img src="/register_page.jpg" heigh="100" width="100" display="inline-block">
+
 
 
 
